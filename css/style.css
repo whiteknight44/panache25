@@ -20,7 +20,7 @@ h3,
 h4,
 h5, 
 h6 {
-    color: #FF00FF;
+    color: #f101f1;
     font-family: 'Nunito', sans-serif;
 }
 
@@ -568,7 +568,7 @@ a:focus {
     margin-bottom: 30px;
     padding: 50px 30px 30px;
     text-align: center;
-    background: #fd5dd5b2;
+    background: #f4ecf37a;
     border-radius: 15px;
     box-shadow: 0 0 30px rgba(0, 0, 0, .08);
     transition: .3s;
@@ -613,8 +613,9 @@ a:focus {
 }
 
 .food .food-item h2 {
-    font-size: 30px;
-    font-weight: 700;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Playfair Display', serif;
 }
 
 .food .food-item a {

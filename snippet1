@@ -1,0 +1,89 @@
+
+
+
+
+    <!-- Menu Start -->
+    <div class="menu">
+        <div class="container">
+            <div class="section-header text-center">
+                <p></p>
+                <h2> TAKING CARE OF HANDS AND FEET</h2>
+            </div>
+            <div class="row mt-5 justify-content-center">
+                <a href="index.html" class="btn btn-primary mx-2">Home Page</a>
+            </div>
+            <br>
+            <div class="menu-tab">
+                <ul class="nav nav-pills justify-content-center">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-toggle="pill" href="#manicure"> MANICURE </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="pill" href="#pedicure">PEDICURE
+                        </a>
+                    </li>
+                </ul>
+                <div class="tab-content">
+                    <div id="manicure" class="container tab-pane active">
+                        <div class="row">
+                            <div class="col-lg-7 col-md-12">
+                                <p><strong>40 Mints. Services</strong> </p>
+                                <div class="menu-item">
+                                    <div class="menu-text">
+                                        <h3><span>Regular Manicure</span> <strong>Rs 450</strong></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+
+                                <div class="menu-item">
+                                    <div class="menu-text">
+                                        <h3><span>Detan Manicure</span> <strong>Rs 650</strong></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+
+                                <div class="menu-item">
+                                    <div class="menu-text">
+                                        <h3><span>Basic Manicure</span> <strong>Rs 300</strong></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="col-lg-5 d-none d-lg-block">
+                                <!-- <img src="img/haircut.jpg" alt="Image"> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div id="pedicure" class="container tab-pane fade">
+                        <div class="row">
+                            <div class="col-lg-7 col-md-12">
+                                <p><strong>40 Min Services</strong> </p>
+                                <div class="menu-item">
+                                    <div class="menu-text">
+                                        <h3><span>Regular Pedicure</span> <strong>Rs 650</strong></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+
+                                <div class="menu-item">
+                                    <div class="menu-text">
+                                        <h3><span>Detan Pedicure</span> <strong>Rs 850</strong></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+
+                                <div class="menu-item">
+                                    <div class="menu-text">
+                                        <h3><span>Basic Pedicure</span> <strong>Rs 400</strong></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <br>
+                   

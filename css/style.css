@@ -20,7 +20,7 @@ h3,
 h4,
 h5, 
 h6 {
-    color: #8b008b;
+    color: #FF00FF;
     font-family: 'Nunito', sans-serif;
 }
 
@@ -568,7 +568,7 @@ a:focus {
     margin-bottom: 30px;
     padding: 50px 30px 30px;
     text-align: center;
-    background: #fd03beb2;
+    background: #fd5dd5b2;
     border-radius: 15px;
     box-shadow: 0 0 30px rgba(0, 0, 0, .08);
     transition: .3s;

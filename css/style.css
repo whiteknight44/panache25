@@ -568,7 +568,7 @@ a:focus {
     margin-bottom: 30px;
     padding: 50px 30px 30px;
     text-align: center;
-    background: #ffebff;
+    background: #fd03beb2;
     border-radius: 15px;
     box-shadow: 0 0 30px rgba(0, 0, 0, .08);
     transition: .3s;
@@ -889,7 +889,7 @@ a:focus {
 
 .menu .menu-tab .nav.nav-pills .nav-link {
     color: #ffffff;
-    background:  #005d04;
+    background:  #000000;
     border-radius: 5px;
     margin: 0 5px;
 }
@@ -897,7 +897,7 @@ a:focus {
 .menu .menu-tab .nav.nav-pills .nav-link:hover,
 .menu .menu-tab .nav.nav-pills .nav-link.active {
     color: #ffffff;
-    background:  #005d04;
+    background:  #000000;
 }
 
 .menu .menu-tab .tab-content {

@@ -20,8 +20,9 @@ h3,
 h4,
 h5, 
 h6 {
-    color: #f101f1;
-    font-family: 'Nunito', sans-serif;
+    color: #635701;
+    font-family: 'Poppins', sans-serif;
+
 }
 
 a {
@@ -290,7 +291,9 @@ a:focus {
 }
 
 .carousel .carousel-text h1 span {
-    color: #FF00FF;
+    color: #FFEA00 ;
+
+ 
 }
 
 .carousel .carousel-text p {
@@ -302,8 +305,8 @@ a:focus {
 
 .carousel .carousel-btn .btn:last-child {
     margin-left: 10px;
-    background:  #FF00FF;
-    border-color: #FF00FF;
+    background:  #ff1390;
+    border-color: #92004d;
 }
 
 .carousel .carousel-btn .btn:last-child:hover {
@@ -568,7 +571,7 @@ a:focus {
     margin-bottom: 30px;
     padding: 50px 30px 30px;
     text-align: center;
-    background: #f4ecf37a;
+    background: #ffffe8	;
     border-radius: 15px;
     box-shadow: 0 0 30px rgba(0, 0, 0, .08);
     transition: .3s;
@@ -627,7 +630,7 @@ a:focus {
     position: absolute;
     content: "";
     width: 50px;
-    height: 1px;
+    height: 0px;
     bottom: 0;
     left: calc(50% - 25px);
     background: #ffffff;
@@ -960,8 +963,9 @@ a:focus {
     display: inline-block;
     float: right;
     padding-left: 5px;
-    color: #fbaf32;
+    color: #5b5b5b;
     background: #ffffff;
+    font-weight: 700;
 }
 
 .menu .menu-text p {
